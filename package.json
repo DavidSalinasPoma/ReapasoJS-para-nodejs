@@ -1,0 +1,12 @@
+{
+  "name": "01-hola-mundo",
+  "version": "1.0.0",
+  "description": "Hola mundo con nodeJS",
+  "main": "promesas.js",
+  "scripts": {
+    "start": "nodemon promesas.js"
+  },
+  "keywords": [],
+  "author": "David Salinas Poma",
+  "license": "ISC"
+}
